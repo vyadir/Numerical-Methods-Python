@@ -1,0 +1,2 @@
+# Numerical Methods
+This repository contains a collection of commonly used numerical methods implemented in Python. These methods are useful for solving various mathematical problems, such as finding roots of equations, solving systems of linear equations, and numerical integration, among others.
