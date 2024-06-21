@@ -1,0 +1,1 @@
+# This directory contains numerical methods for interpolation and function approximation.

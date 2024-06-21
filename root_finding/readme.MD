@@ -1,0 +1,1 @@
+# This directory contains numerical methods for finding roots of nonlinear equations.

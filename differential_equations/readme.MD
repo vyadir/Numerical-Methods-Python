@@ -1,0 +1,1 @@
+# This directory contains numerical methods for solving ordinary differential equations (ODEs) and partial differential equations (PDEs).
