@@ -1,1 +1,1 @@
-# This directory contains numerical methods for numerical integration.
+# This directory contains numerical methods for numerical integration..
